@@ -1,11 +1,12 @@
 # sample
 The angular setup 
+
  npm version 9.7.1
- angular 
  Angular CLI: 11.1.2
  Node: 18.16.0
  OS: win32 x64
- @angular-devkit/architect    0.1101.2 (cli-only)
+ 
+@angular-devkit/architect    0.1101.2 (cli-only)
 @angular-devkit/core         11.1.2 (cli-only)
 @angular-devkit/schematics   11.1.2 (cli-only)
 @schematics/angular          11.1.2 (cli-only)
